@@ -5,26 +5,26 @@ import Typography from "./Typography";
 export default function () {
   const products = [
     {
-      image: "/images/shirt2.jpg",
+      image: "/Images/shirt2.jpg",
       name: "Gradient Graphic T-shirt",
       price: 30,
       rating: 4.5,
     },
     {
-      image: "/images/shirt2.jpg",
+      image: "/Images/shirt2.jpg",
       name: "Gradient Graphic T-shirt",
       price: 30,
       rating: 4.5,
     },
 
     {
-      image: "/images/shirt2.jpg",
+      image: "/Images/shirt2.jpg",
       name: "Gradient Graphic T-shirt",
       price: 30,
       rating: 4.5,
     },
     {
-      image: "/images/shirt2.jpg",
+      image: "/Images/shirt2.jpg",
       name: "Gradient Graphic T-shirt",
       price: 30,
       rating: 4.5,

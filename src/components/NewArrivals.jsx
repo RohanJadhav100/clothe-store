@@ -3,26 +3,26 @@ import Typography from "./Typography";
 
 const products = [
   {
-    image: "/images/shirt.jpg",
+    image: "/Images/shirt.jpg",
     name: "Gradient Graphic T-shirt",
     price: 30,
     rating: 4.5,
   },
   {
-    image: "/images/shirt.jpg",
+    image: "/Images/shirt.jpg",
     name: "Gradient Graphic T-shirt",
     price: 30,
     rating: 4.5,
   },
 
   {
-    image: "/images/shirt.jpg",
+    image: "/Images/shirt.jpg",
     name: "Gradient Graphic T-shirt",
     price: 30,
     rating: 4.5,
   },
   {
-    image: "/images/shirt.jpg",
+    image: "/Images/shirt.jpg",
     name: "Gradient Graphic T-shirt",
     price: 30,
     rating: 4.5,
